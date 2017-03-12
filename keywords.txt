@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For WifiManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WifiManager	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+PrintWifiDetails	 KEYWORD2
+EnableLocalAP	 KEYWORD2
+DisableLocalAP	 KEYWORD2
+ConnectedToWifi	 KEYWORD2
+ConnectToWifi	KEYWORD2
+EnsureConnected	KEYWORD2
+Start	KEYWORD2
+WaitForConnection	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+LocalAPEnabled KEYWORD2
+ConnectionAttempts KEYWORD2
+ConnectionAttemptsBeforeLocalAP KEYWORD2
+MSBetweenConnectionAttempts KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
